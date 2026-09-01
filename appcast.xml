@@ -13,6 +13,13 @@
             <title>Version 2.9.3</title>
             <pubDate>Tue, 01 Sep 2026 18:34:52 +0800</pubDate>
             <enclosure
+                url="https://github.com/FSWLairport/saikyo-connect/releases/download/v2.9.3/SaikyoConnect-iOS.ipa"
+                sparkle:version="2.9.3" sparkle:os="ios" />
+        </item>
+        <item>
+            <title>Version 2.9.3</title>
+            <pubDate>Tue, 01 Sep 2026 18:34:52 +0800</pubDate>
+            <enclosure
                 url="https://github.com/FSWLairport/saikyo-connect/releases/download/v2.9.3/SaikyoConnect-Windows-Portable-x64.zip"
                 sparkle:version="2.9.3" sparkle:os="windows" />
         </item>
