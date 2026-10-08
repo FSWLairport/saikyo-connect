@@ -3,39 +3,39 @@
     <channel>
         <title>Release</title>
         <item>
-            <title>Version 2.10.0</title>
-            <pubDate>Tue, 08 Sep 2026 10:25:42 +0800</pubDate>
+            <title>Version 2.10.2</title>
+            <pubDate>Sun, 04 Oct 2026 16:12:45 +0800</pubDate>
             <enclosure
-                url="https://github.com/FSWLairport/saikyo-connect/releases/download/v2.10.0/SaikyoConnect-Android-universal.apk"
-                sparkle:version="2.10.0" sparkle:os="android" />
+                url="https://github.com/FSWLairport/saikyo-connect/releases/download/v2.10.2/SaikyoConnect-Android-universal.apk"
+                sparkle:version="2.10.2" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 2.10.0</title>
-            <pubDate>Tue, 08 Sep 2026 10:25:42 +0800</pubDate>
+            <title>Version 2.10.2</title>
+            <pubDate>Sun, 04 Oct 2026 16:12:45 +0800</pubDate>
             <enclosure
-                url="https://github.com/FSWLairport/saikyo-connect/releases/download/v2.10.0/SaikyoConnect-iOS.ipa"
-                sparkle:version="2.10.0" sparkle:os="ios" />
+                url="https://github.com/FSWLairport/saikyo-connect/releases/download/v2.10.2/SaikyoConnect-iOS.ipa"
+                sparkle:version="2.10.2" sparkle:os="ios" />
         </item>
         <item>
-            <title>Version 2.10.0</title>
-            <pubDate>Tue, 08 Sep 2026 10:25:42 +0800</pubDate>
+            <title>Version 2.10.2</title>
+            <pubDate>Sun, 04 Oct 2026 16:12:45 +0800</pubDate>
             <enclosure
-                url="https://github.com/FSWLairport/saikyo-connect/releases/download/v2.10.0/SaikyoConnect-Windows-Portable-x64.zip"
-                sparkle:version="2.10.0" sparkle:os="windows" />
+                url="https://github.com/FSWLairport/saikyo-connect/releases/download/v2.10.2/SaikyoConnect-Windows-Portable-x64.zip"
+                sparkle:version="2.10.2" sparkle:os="windows" />
         </item>
         <item>
-            <title>Version 2.10.0</title>
-            <pubDate>Tue, 08 Sep 2026 10:25:42 +0800</pubDate>
+            <title>Version 2.10.2</title>
+            <pubDate>Sun, 04 Oct 2026 16:12:45 +0800</pubDate>
             <enclosure
-                url="https://github.com/FSWLairport/saikyo-connect/releases/download/v2.10.0/SaikyoConnect-MacOS.dmg"
-                sparkle:version="2.10.0" sparkle:os="macos" />
+                url="https://github.com/FSWLairport/saikyo-connect/releases/download/v2.10.2/SaikyoConnect-MacOS.dmg"
+                sparkle:version="2.10.2" sparkle:os="macos" />
         </item>
         <item>
-            <title>Version 2.10.0</title>
-            <pubDate>Tue, 08 Sep 2026 10:25:42 +0800</pubDate>
+            <title>Version 2.10.2</title>
+            <pubDate>Sun, 04 Oct 2026 16:12:45 +0800</pubDate>
             <enclosure
-                url="https://github.com/FSWLairport/saikyo-connect/releases/download/v2.10.0/SaikyoConnect-Linux-x64.AppImage"
-                sparkle:version="2.10.0" sparkle:os="linux" />
+                url="https://github.com/FSWLairport/saikyo-connect/releases/download/v2.10.2/SaikyoConnect-Linux-x64.AppImage"
+                sparkle:version="2.10.2" sparkle:os="linux" />
         </item>
     </channel>
 </rss>
